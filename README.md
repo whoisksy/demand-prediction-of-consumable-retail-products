@@ -33,4 +33,4 @@ store might have two suppliers.
 * The evaluation metric used is Root Mean Squared Error (RMSE)
 * Achieved RMSE of 10.2 on train data and 11.9 on test data
 
-*NOTE*: Please use Google Colab for better view of visualization file.
+*NOTE*: Please use Google Colab for complete view of visualization file.
